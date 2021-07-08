@@ -42,7 +42,7 @@
 
 <br/>
 
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henryfabio&layout=compact&theme=dracula&hide_title=true&langs_count=10)
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbs21&layout=compact&theme=dracula&hide_title=true&langs_count=10)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
