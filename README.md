@@ -2,7 +2,7 @@
 
 <h3> :adult: &nbsp;Sobre mim </h3>
 
-- 🔭 Atualmente trabalhando em projetos na [**NextPlugins**](https://github.com/nextplugins)
+- 🔭 &nbsp; Atualmente trabalhando em projetos na [**NextPlugins**](https://github.com/nextplugins)
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web** em casa.
 - 🌱 &nbsp; Aprendendo mais sobre **React**.
